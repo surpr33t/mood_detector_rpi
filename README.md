@@ -1,7 +1,6 @@
 # MoodTunes – Real-Time Emotion-Based Music Recommendation
 
-**Author:** Surpreet Kaur  
-**Course:** EE250 Final Project  
+**Authors:** Surpreet Kaur | Alan Yusuf
 
 ## Overview
 MoodTunes is a real-time emotion detection application that recommends and plays music based on the user’s mood. It uses a webcam image, DeepFace AI for emotion recognition, and the Spotify API to generate a playlist that matches the detected mood. The app can run on both a local computer and a Raspberry Pi (with minor dependency adjustments).
