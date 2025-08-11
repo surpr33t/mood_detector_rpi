@@ -1,0 +1,18 @@
+# — Core app
+flask==3.1.0
+spotipy==2.25.1
+python-dotenv==1.1.0
+opencv-python==4.11.0.86
+urllib3<2
+tf-keras
+
+# — DeepFace + TF on macOS
+tensorflow-macos==2.11.0
+tensorflow-metal==0.8.0
+
+
+#RPI
+#tflite-runtime==2.5.0
+#deepface==0.0.93
+
+# On the Pi you’ll swap out the first three TensorFlow lines for either tflite-runtime or tensorflow-aarch64, but keep the rest.
